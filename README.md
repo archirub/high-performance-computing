@@ -1,5 +1,5 @@
 # high-performance-computing
-Set of graded assignments for my 4th year High Performance Computing module (PHAS0102) at UCL.
+Set of graded assignments for my 4th year High Performance Computing module (PHAS0102) at University College London.
 
 I obtained 98% overall in this module, with 
 
